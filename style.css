@@ -1,0 +1,51 @@
+
+h2{
+    background-color: blueviolet;
+    font-size: 30px;
+}
+img{
+    border: solid;
+    border-radius : 40px;
+    background-color : cadetblue;
+}
+body{
+    background-color: aquamarine;
+}
+
+.maincontainer{
+    display: flex;
+    border: solid;
+    border-color: green;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    border:solid;
+    border-color: yellow;
+    justify-content: space-between;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: darkcyan;
+    color: whitesmoke;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-right: 50pt;
+    border: 100px;
+    justify-content: space-between;
+}
+.headtext{
+    font-size: 50px;
+    justify-content: space-between;
+}
+#abc{
+    margin-left:  100px;
+}
+.bodyimg{
+    border-radius: 10px;
+    justify-content: space-between;
+}
